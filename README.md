@@ -1,5 +1,5 @@
 # saponazureml
-apply machine learning to sap financials - AR data
+Apply Azure Machine Learning to SAP Financials - AR data specifically in this case
 
 How can Finance professionals better manage cash flows and optmize cash flow in general?
 
